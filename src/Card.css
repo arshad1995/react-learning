@@ -1,0 +1,14 @@
+.a {
+  background-color: lightgrey;
+  margin: 14px 20px 65px 60px;
+  padding: 14px 40px 65px 60px;
+  height: 340px;
+  width: 24%;
+  position: relative;
+  top: 20px;
+  left: 0;
+  text-align: left;
+  font-size: 30px;
+  color: brown;
+  font-style: oblique;
+}
